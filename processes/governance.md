@@ -17,3 +17,9 @@ The Maintenance Team may make or merge any Proposed change to the Governance Rep
 * Without the consent of any Working Group so implicated, grants the Working Group any authority that is already granted to an existing Working Group.
 
 Removal of a Working Group is not included in the above authority, and must be subject to the standard process for Proposed Changes to Governance.
+
+## New Repositories
+
+When a new repository is created by the Maintenance Team, the Maintenance Team may amend governance to establish new special processes applicable to that repository, or to apply existing processes applied to another repository to the new repository, following 14 Day Review and Comment Period, provided that:
+* The new repository is of a substantially similar style to an existing repository under special governance processes, and the processes established for the new repository are markedly similar to the processes of the existing repository as applicable, or
+* The new repository has non-technical, non-normative content, and the newly established processes are reasonable and do not prescribe any novel process.

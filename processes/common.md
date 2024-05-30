@@ -10,6 +10,8 @@ The Team or Working Group authorized to take such an action shall initiate a Rev
 During the Review and Comment Process, all Members of the Project are notified in a reasonably accessible manner, and may raise concerns. 
 If an objection is raised, a member of the Review Team may second the concern. Once an concern is seconded or raised by a member of the Review Team, the Review Team must approve the action before the Review and Comment Period for the Action is deemed to have ended. 
 
+During the Review and Comment Period, the action may be modified before the period ends, to address comments raised by Members.
+
 ## Balloting Process
 
 Any Action may be subjected to a Balloting Process for a defined length of time by the Team or Working Group authorized to take the action. In the case of an Action taken by a Working Group, a Member of the Maintenance Team must approve the Ballotting Process. The Balloting process for an action, if any, occurs after the Review and Comment process for that action.
