@@ -6,8 +6,9 @@ The ACI Core Interest Group shall be chartered to perform the following:
 * Any Action authorized to the Maintenance Team in respect to the ACI Specification,
 * Interface and Negotiate with the LC Project to smoothly establish the joint ACI Specification Project,
 * Act as the ACI Specification Project Core Interest Group on behalf of the Clever-ISA Project,
-* Act as the Registrar for the ACI Registries on behalf of the Clever-ISA Project, and
-* Act as the Registrar for subclass and product registries owned by the Clever-ISA Project.
+* Act as the Registrar for the ACI Registries on behalf of the Clever-ISA Project,
+* Act as the Registrar for subclass and product registries owned by the Clever-ISA Project, and
+* Generally Manage the Affairs of the Working Group as a Working Group and in respect to the operations and governance of the Clever-ISA project.
 
 Any Action granted to the ACI Core Interest Group shall be non-exclusive as to the Maintenance Team. 
 
